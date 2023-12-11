@@ -1,0 +1,5 @@
+#---Dependencias a instalar
+opencv-python==4.5.3.56
+kivy==2.1.0
+#---Cuando se necesite instalar se hace lo siguiente
+# pip install -r requirements.txt
